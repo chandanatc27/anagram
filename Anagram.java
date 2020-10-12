@@ -35,7 +35,7 @@ public class Anagram {
 	    } else
 	        System.out.println("strings are not anagram !!");
 
-	    sc.close();
+	
 	    
 	}
 }
