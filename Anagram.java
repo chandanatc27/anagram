@@ -32,7 +32,7 @@ public class Anagram {
 	    Collections.sort(arr2);
 	    
 	    if (arr1.equals(arr2)) {
-	        System.out.println("given strings are anagram");
+	        System.out.println("yay given strings are anagram");
 	      
 	    } else
 	        System.out.println("strings are not anagram !!");
