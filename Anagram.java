@@ -8,7 +8,7 @@ public class Anagram {
 	    Scanner sc = new Scanner(System.in);
 
 	    
-	    String string1 = "story";
+	    //String string1 = "story";
 	    System.out.println("1st string is "+string1);
 
 	    
