@@ -10,7 +10,7 @@ public class Anagram {
 	    System.out.println("1st string is "+string1);
 
 	    
-	    String string2 = "ryots";
+	    //String string2 = "ryots";
 	    System.out.println("2nd string is "+string2);
 
 	    ArrayList<Character> arr1 = new ArrayList<>();
